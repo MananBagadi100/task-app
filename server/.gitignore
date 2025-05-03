@@ -1,0 +1,9 @@
+#  Python virtual‐env folder for the backend files only
+backend-env/
+
+#  compiled Python files
+__pycache__/
+*.py[cod]
+
+#  local SQLite database (recreated on the spot via the seed.py)
+instance/db.sqlite3
